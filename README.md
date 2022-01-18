@@ -7,6 +7,7 @@ This project was developed using an iterative life cycle model; due to the chang
 
 This project was developed using google's flutter and built in Dart and operated on the Dart virtual machine.
 
+Project start date is 30/06/2021 and the expected delivery day is 13/01/2022.
 
 
 
